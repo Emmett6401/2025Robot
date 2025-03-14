@@ -9,7 +9,7 @@
 7. 이용전 https://github.com/wads1234k
 8. 김선준 https://github.com/pocky75
 9. 이민용 https://github.com/dlalsdyd01
-10. 조우석
+10. 조우석 https://github.com/ouseok00
 11. 김지훈 https://github.com/rlawlgns02 https://rlawlgns02.github.io/testWeb/
 12. 백민재 https://github.com/minjae010317 https://minjae010317.github.io/Readme.md/
 13. 임강진 https://github.com/ggzz5272   https://ggzz5272.github.io/Readme.md/
