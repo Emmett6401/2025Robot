@@ -1,18 +1,18 @@
 # 2025Robot
 2025 ROBOT응용 SW 개발자 과정 
 1. 김희웅 https://github.com/heewoong21
-2. 안성진
-3. 김미소
-4. 이진수
-5. 김하은
-6. 김태민
-7. 이용전
-8. 김선준
-9. 이인용
+2. 안성진 https://github.com/radiant998
+3. 김미소 https://github.com/kim-smile
+4. 이진수  https://github.com/jjkkhh123
+5. 김하은 https://github.com/haeun0908
+6. 김태민 https://github.com/gomtam 
+7. 이용전 https://github.com/wads1234k
+8. 김선준 https://github.com/pocky75
+9. 이민용 https://github.com/dlalsdyd01
 10. 조우석
-11. 김지훈
-12. 백민재
-13. 임강진
+11. 김지훈 https://github.com/rlawlgns02 https://rlawlgns02.github.io/testWeb/
+12. 백민재 https://github.com/minjae010317 https://minjae010317.github.io/Readme.md/
+13. 임강진 https://github.com/ggzz5272   https://ggzz5272.github.io/Readme.md/
 
 지금 우리 공부 하고 있는 모습 
 ![이미지 1](image/KakaoTalk_20250314_095734516.jpg)
