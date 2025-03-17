@@ -16,7 +16,7 @@
 
 지금 우리 공부 하고 있는 모습 
 ![이미지 1](image/KakaoTalk_20250314_095734516.jpg)
-![이미지 2](image/KakaoTalk_20250314_095734516_01.jpg)
+![이미지 2] (image/KakaoTalk_20250314_095734516_01.jpg)
 
 웹페이지를 불러 오기 
 https://kidd.co.kr/news/238803
