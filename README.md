@@ -20,3 +20,6 @@
 
 웹페이지를 불러 오기 
 https://kidd.co.kr/news/238803
+
+1. 파이썬 개발 환경 구축후 첫 프로젝트 https://github.com/Emmett6401/myPrjt002
+2.  
